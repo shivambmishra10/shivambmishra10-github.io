@@ -54,7 +54,7 @@ html{
 
 .fre_questions{
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     background-color: black;
     display: flex;
     align-items: center;
